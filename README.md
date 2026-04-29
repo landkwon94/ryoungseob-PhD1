@@ -11,4 +11,4 @@ For Python codes, we recommend using Google Colab and Google Earth Engine platfo
 Kwon, R., Ryu, Y., Ciais, P., Makowski, D., Choi, C., Feng, H., ... & Lee, K. Enabling 30 M Maize Mapping Without Ground Reference Leveraging Multiple Satellite Platforms in Brazil and Argentina. Available at SSRN 5155785.
 
 # Data Download
-Please visit here, if you want to download the datasets. https://landkwon94.tistory.com/253
+Please visit here, if you want to download the datasets. https://blog.naver.com/twinsben94/224238193939
